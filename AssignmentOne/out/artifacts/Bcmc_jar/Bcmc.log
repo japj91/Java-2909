@@ -1,0 +1,70 @@
+2017-06-01 21:19:15.898 [main] INFO  Bcmc - 
+2017-06-01 21:19:15.953 [main] INFO  Bcmc - Start Time 2017-06-02T04:19:15.900Z
+2017-06-01 21:19:15.954 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:19:15.960 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:19:15.961 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:19:15.963 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:19:15.966 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:19:15.967 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:19:15.975 [main] INFO  Bcmc - Finish Time 2017-06-02T04:19:15.975Z
+2017-06-01 21:19:15.975 [main] INFO  Bcmc - Time application took to run 75 ms 
+2017-06-01 21:19:26.726 [main] INFO  Bcmc - 
+2017-06-01 21:19:26.779 [main] INFO  Bcmc - Start Time 2017-06-02T04:19:26.727Z
+2017-06-01 21:19:26.779 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:19:26.785 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:19:26.786 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:19:26.789 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:19:26.791 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:19:26.792 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:19:26.800 [main] INFO  Bcmc - Finish Time 2017-06-02T04:19:26.800Z
+2017-06-01 21:19:26.801 [main] INFO  Bcmc - Time application took to run 73 ms 
+2017-06-01 21:19:46.353 [main] INFO  Bcmc - 
+2017-06-01 21:19:46.408 [main] INFO  Bcmc - Start Time 2017-06-02T04:19:46.354Z
+2017-06-01 21:19:46.409 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:19:46.414 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:19:46.415 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:19:46.418 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:19:46.421 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:19:46.421 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:19:46.448 [main] INFO  Bcmc - Finish Time 2017-06-02T04:19:46.448Z
+2017-06-01 21:19:46.449 [main] INFO  Bcmc - Time application took to run 94 ms 
+2017-06-01 21:23:57.624 [main] INFO  Bcmc - 
+2017-06-01 21:23:57.676 [main] INFO  Bcmc - Start Time 2017-06-02T04:23:57.625Z
+2017-06-01 21:23:57.677 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:23:57.682 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:23:57.684 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:23:57.686 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:23:57.689 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:23:57.689 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:23:57.695 [main] INFO  Bcmc - Finish Time 2017-06-02T04:23:57.695Z
+2017-06-01 21:23:57.695 [main] INFO  Bcmc - Time application took to run 70 ms 
+2017-06-01 21:24:18.057 [main] INFO  Bcmc - 
+2017-06-01 21:24:18.112 [main] INFO  Bcmc - Start Time 2017-06-02T04:24:18.058Z
+2017-06-01 21:24:18.113 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:24:18.119 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:24:18.121 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:24:18.124 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:24:18.126 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:24:18.127 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:24:18.133 [main] INFO  Bcmc - Finish Time 2017-06-02T04:24:18.133Z
+2017-06-01 21:24:18.133 [main] INFO  Bcmc - Time application took to run 75 ms 
+2017-06-01 21:24:40.038 [main] INFO  Bcmc - 
+2017-06-01 21:24:40.090 [main] INFO  Bcmc - Start Time 2017-06-02T04:24:40.039Z
+2017-06-01 21:24:40.090 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:24:40.096 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:24:40.097 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:24:40.099 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:24:40.102 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:24:40.102 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:24:40.111 [main] INFO  Bcmc - Finish Time 2017-06-02T04:24:40.111Z
+2017-06-01 21:24:40.111 [main] INFO  Bcmc - Time application took to run 72 ms 
+2017-06-01 21:29:25.999 [main] INFO  Bcmc - 
+2017-06-01 21:29:26.051 [main] INFO  Bcmc - Start Time 2017-06-02T04:29:26Z
+2017-06-01 21:29:26.051 [main] INFO  Bcmc - Reading customer objects
+2017-06-01 21:29:26.057 [main] INFO  Bcmc - Finished reading customer objects 
+2017-06-01 21:29:26.058 [main] INFO  Bcmc - Reading Inventory objects
+2017-06-01 21:29:26.061 [main] INFO  Bcmc - Finished reading Inventory objects
+2017-06-01 21:29:26.064 [main] INFO  Bcmc - Reading motorcycle objects
+2017-06-01 21:29:26.065 [main] INFO  Bcmc - Finished reading motorcycle objects
+2017-06-01 21:29:26.073 [main] INFO  Bcmc - Finish Time 2017-06-02T04:29:26.073Z
+2017-06-01 21:29:26.073 [main] INFO  Bcmc - Time application took to run 73 ms 

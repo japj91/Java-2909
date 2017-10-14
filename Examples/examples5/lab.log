@@ -1,0 +1,18 @@
+2017-05-23 19:52:45,834 main INFO  log4j.BasicLogging (BasicLogging.java:23) - Starting BasicLogging.
+2017-05-23 19:52:45,835 main DEBUG log4j.BasicLogging (BasicLogging.java:39) - BasicLogging constructor.
+2017-05-23 19:52:45,835 main DEBUG log4j.BasicLogging (BasicLogging.java:43) - foo() called.
+2017-05-23 19:52:45,835 main ERROR log4j.BasicLogging (BasicLogging.java:30) - Ouch!
+2017-05-23 19:52:45,836 main INFO  log4j.AnotherClass (AnotherClass.java:26) - Entered bar.
+2017-05-23 19:52:45,836 main INFO  log4j.BasicLogging (BasicLogging.java:35) - Exiting BasicLogging.
+2017-05-23 19:53:33,218 main INFO  a00123456.LoggingTest (LoggingTest.java:53) - 2017-05-24T02:53:33.214Z
+2017-05-23 19:53:33,304 main INFO  a00123456.LoggingTest (LoggingTest.java:74) - 2017-05-24T02:53:33.304Z
+2017-05-23 19:53:33,305 main INFO  a00123456.LoggingTest (LoggingTest.java:75) - Duration: 90 ms
+2017-05-23 19:54:11,087 main ERROR a00123456.LoggingTest (LoggingTest.java:53) - 2017-05-24T02:54:11.084Z
+2017-05-23 19:54:11,154 main INFO  a00123456.LoggingTest (LoggingTest.java:74) - 2017-05-24T02:54:11.154Z
+2017-05-23 19:54:11,155 main INFO  a00123456.LoggingTest (LoggingTest.java:75) - Duration: 70 ms
+2017-05-23 21:11:53,632 main INFO  log4j.BasicLogging (BasicLogging.java:23) - Starting BasicLogging.
+2017-05-23 21:11:53,632 main DEBUG log4j.BasicLogging (BasicLogging.java:39) - BasicLogging constructor.
+2017-05-23 21:11:53,633 main DEBUG log4j.BasicLogging (BasicLogging.java:43) - foo() called.
+2017-05-23 21:11:53,633 main ERROR log4j.BasicLogging (BasicLogging.java:30) - Ouch!
+2017-05-23 21:11:53,633 main INFO  log4j.AnotherClass (AnotherClass.java:26) - Entered bar.
+2017-05-23 21:11:53,633 main INFO  log4j.BasicLogging (BasicLogging.java:35) - Exiting BasicLogging.

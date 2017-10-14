@@ -1,0 +1,16 @@
+2017-02-13 21:32:49.794 [main] INFO  a00123456.Lab5 - 2017-02-14T05:32:49.790Z
+2017-02-13 21:32:49.849 [main] DEBUG a00123456.Lab5 - Lab5()
+2017-02-13 21:32:49.849 [main] DEBUG a00123456.Lab5 - run()
+2017-02-13 21:32:49.849 [main] DEBUG a00123456.Lab5 - Reading the Customers Report from '/Users/scirka/Documents/COMP 2613/Solutions/A00123456Lab5/out/customers.txt'
+2017-02-13 21:32:49.853 [main] DEBUG a00123456.Lab5 - Writing the Customers Report to '/Users/scirka/Documents/COMP 2613/Solutions/A00123456Lab5/out/customers_report.txt'
+2017-02-13 21:32:49.854 [main] INFO  a00123456.io.CustomerReport - Customers Report
+2017-02-13 21:32:49.854 [main] INFO  a00123456.io.CustomerReport - ----------------------------------------------------------------------------------------------------------------------------------------------
+2017-02-13 21:32:49.854 [main] INFO  a00123456.io.CustomerReport -   #. ID     First name   Last name    Street                    City         Postal Code  Phone           Email                    Join Date
+2017-02-13 21:32:49.855 [main] INFO  a00123456.io.CustomerReport - ----------------------------------------------------------------------------------------------------------------------------------------------
+2017-02-13 21:32:49.861 [main] INFO  a00123456.io.CustomerReport -   1. 000001 Fred         Fish         5707 Sidley St            Burnaby      V5J 5E6      (604) 433-5004  fredfish@imperial.net    Feb 22 2008
+2017-02-13 21:32:49.861 [main] INFO  a00123456.io.CustomerReport -   2. 000005 Mark         Chan         3766 E 1st Ave            Burnaby      V5C 3V9      (604) 293-1022  mchan@hc.com             Mar 01 2010
+2017-02-13 21:32:49.862 [main] INFO  a00123456.io.CustomerReport -   3. 000003 Conrad       Washington   13479 King George Blvd    Surrey       V3T 2T8      (604) 588-4988  cwash@daytona.net        Jun 12 2011
+2017-02-13 21:32:49.862 [main] INFO  a00123456.io.CustomerReport -   4. 000002 Laurie       Nash         2816 Commercial Dr        Vancouver    V5N 4C6      (604) 876-0182  laurieeenash@modern.com  Jul 28 2014
+2017-02-13 21:32:49.862 [main] INFO  a00123456.io.CustomerReport -   5. 000004 Jeanette     Price        21000 Westminster Hwy     Richmond     V6V 2S9      (604) 276-2552  priceizrite@pacific.com  Sep 03 2015
+2017-02-13 21:32:49.862 [main] INFO  a00123456.Lab5 - 2017-02-14T05:32:49.862Z
+2017-02-13 21:32:49.862 [main] INFO  a00123456.Lab5 - Duration: 72 ms

@@ -1,0 +1,6 @@
+Identifier	First Name	Last Name	Street Name					City			Postal			Phone			    Email					   Join Date
+000003		Conrad       Washington	13479 King George Blvd		V3T 2T8   		Surrey    		(604) 588-4988		cwash@daytona.net   	   JULY-12-2011
+000001		Fred         Fish      	5707 Sidley St      		V5J 5E6   		Burnaby   		(604) 433-5004		fredfish@imperial.net	   MARCH-22-2008
+000004		Jeanette     Price     	21000 Westminster Hwy		V6V 2S9   		Richmond  		(604) 276-2552		priceizrite@pacific.com	   OCTOBER-3-2015
+000002		Laurie       Nash      	2816 Commercial Dr  		V5N 4C6   		Vancouver 		(604) 876-0182		laurieeenash@modern.com	   AUGUST-28-2014
+000005		Mark         JanPaul   	3766 E 1st Ave      		V5C 3V9   		Burnaby   		(604) 293-1022		mchan@hc.com        	   APRIL-1-2010

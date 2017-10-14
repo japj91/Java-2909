@@ -1,0 +1,35 @@
+2017-06-18 18:24:55.875 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:24:55.927 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:24:55.876Z
+2017-06-18 18:24:55.928 [main] INFO  A00980851.io.readers.CustomerReader - Reading customer objects
+2017-06-18 18:24:55.934 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects 
+2017-06-18 18:24:55.934 [main] INFO  A00980851.io.readers.CustomerReader - Finished reading customer objects 
+2017-06-18 18:24:55.935 [main] INFO  A00980851.io.readers.InventoryReader - Reading Inventory objects
+2017-06-18 18:24:55.938 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects 
+2017-06-18 18:24:55.938 [main] INFO  A00980851.io.readers.InventoryReader - Finished reading Inventory objects
+2017-06-18 18:24:55.940 [main] INFO  A00980851.io.readers.MotorCycleReader - Reading motorcycle objects
+2017-06-18 18:24:55.940 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects 
+2017-06-18 18:24:55.940 [main] INFO  A00980851.io.readers.MotorCycleReader - Finished reading motorcycle objects
+2017-06-18 18:25:27.342 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:25:27.395 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:25:27.344Z
+2017-06-18 18:25:27.396 [main] INFO  A00980851.io.readers.CustomerReader - Reading customer objects
+2017-06-18 18:25:27.402 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects 
+2017-06-18 18:25:27.402 [main] INFO  A00980851.io.readers.CustomerReader - Finished reading customer objects 
+2017-06-18 18:25:27.403 [main] INFO  A00980851.io.readers.InventoryReader - Reading Inventory objects
+2017-06-18 18:25:27.406 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects 
+2017-06-18 18:25:27.406 [main] INFO  A00980851.io.readers.InventoryReader - Finished reading Inventory objects
+2017-06-18 18:25:27.409 [main] INFO  A00980851.io.readers.MotorCycleReader - Reading motorcycle objects
+2017-06-18 18:25:27.409 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects 
+2017-06-18 18:25:27.409 [main] INFO  A00980851.io.readers.MotorCycleReader - Finished reading motorcycle objects
+2017-06-18 18:25:27.416 [main] INFO  A00980851.util.cli.MotorCycleOptions - The motorcycle option from CLI has been choosen
+2017-06-18 18:25:50.209 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:25:50.263 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:25:50.211Z
+2017-06-18 18:25:50.264 [main] INFO  A00980851.io.readers.CustomerReader - Reading customer objects
+2017-06-18 18:25:50.270 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects 
+2017-06-18 18:25:50.270 [main] INFO  A00980851.io.readers.CustomerReader - Finished reading customer objects 
+2017-06-18 18:25:50.271 [main] INFO  A00980851.io.readers.InventoryReader - Reading Inventory objects
+2017-06-18 18:25:50.274 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects 
+2017-06-18 18:25:50.274 [main] INFO  A00980851.io.readers.InventoryReader - Finished reading Inventory objects
+2017-06-18 18:25:50.277 [main] INFO  A00980851.io.readers.MotorCycleReader - Reading motorcycle objects
+2017-06-18 18:25:50.277 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects 
+2017-06-18 18:25:50.277 [main] INFO  A00980851.io.readers.MotorCycleReader - Finished reading motorcycle objects
+2017-06-18 18:25:50.284 [main] INFO  A00980851.util.cli.MotorCycleOptions - The motorcycle option from CLI has been choosen

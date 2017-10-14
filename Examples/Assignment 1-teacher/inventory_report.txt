@@ -1,0 +1,19 @@
+Inventory Report
+-------------------------------------------------------------------------------------------------------
+Make+Model                   Description                  Part#           Price    Quantity       Value
+-------------------------------------------------------------------------------------------------------
+Honda+CB1100                 FLAT NUT                     6637659955       2.45         583    1,428.35
+Honda+CB1100                 HEX NUT                      7119904920       2.37         465    1,102.05
+Honda+CB1100                 ISA SCREW                    7129904261       3.44         323    1,111.12
+Honda+CB1100                 RETAINER SPRING              6717660163       4.08         138      563.04
+Honda+CB1100                 BULB                         3217169203       5.15         114      587.10
+Honda+CB1100                 STOPPER                      6712330765       8.03          84      674.52
+Honda+CB1100                 WASHER                       7119907030       6.95          71      493.45
+Honda+CB1100                 SLEEVE                       32727673990      9.05          53      479.65
+Honda+CB1100                 COUNTER NUT                  32727678101      7.15          15      107.25
+Honda+CB1100                 VOLTAGE REGULATOR            1312346550     188.76           8    1,510.08
+Honda+CB1100                 BELT WHEEL, REAR             7727678299     569.65           2    1,139.30
+Honda+CB1100                 NIPPLE                       1447687378      37.75           2       75.50
+Honda+CB1100                 FOOTREST, RIGHT              6717700914      80.31           1       80.31
+Honda+CB1100                 BALANCE ROD WITH ROCKER      1277702426     666.03           0        0.00
+Value of current inventory: $9,351.72

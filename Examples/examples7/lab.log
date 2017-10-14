@@ -1,0 +1,12 @@
+2017-06-02 10:03:17,734 main INFO  database.DatabaseDemo (DatabaseDemo.java:85) - Running
+2017-06-02 10:03:17,899 main INFO  database.DatabaseDemo (DatabaseDemo.java:88) - Driver loaded
+2017-06-02 10:03:19,446 main INFO  database.DatabaseDemo (DatabaseDemo.java:120) - Database connected
+2017-06-02 10:03:20,202 main INFO  database.DatabaseDemo (DatabaseDemo.java:64) - Shutting down
+2017-06-02 10:11:58,562 main INFO  database.DatabaseDemo (DatabaseDemo.java:87) - Running
+2017-06-02 10:11:58,654 main INFO  database.DatabaseDemo (DatabaseDemo.java:90) - Driver loaded
+2017-06-02 10:12:00,294 main INFO  database.DatabaseDemo (DatabaseDemo.java:122) - Database connected
+2017-06-02 10:12:00,689 main INFO  database.DatabaseDemo (DatabaseDemo.java:65) - Shutting down
+2017-06-03 20:25:51,358 main INFO  database.DatabaseDemo (DatabaseDemo.java:87) - Running
+2017-06-03 20:25:51,565 main INFO  database.DatabaseDemo (DatabaseDemo.java:90) - Driver loaded
+2017-06-03 20:25:51,955 main INFO  database.DatabaseDemo (DatabaseDemo.java:122) - Database connected
+2017-06-03 20:25:52,404 main INFO  database.DatabaseDemo (DatabaseDemo.java:65) - Shutting down

@@ -1,0 +1,890 @@
+2017-06-07 21:32:07.525 [main] INFO  A00980851.util.Logging - 2017-06-07T21:32:07.476
+2017-06-07 21:32:07.711 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-07 21:32:07.877 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-07 21:32:08.062 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Table deleted Sucessfully
+2017-06-07 21:32:08.062 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-07 21:32:08.164 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-07 21:32:08.197 [main] INFO  A00980851.util.Logging - 2017-06-07T21:32:08.197
+2017-06-07 21:32:08.200 [main] INFO  A00980851.util.Logging - 721 Milli Seconds
+
+2017-06-07 21:40:54.510 [main] INFO  A00980851.util.Logging - 2017-06-07T21:40:54.441
+2017-06-07 21:40:54.689 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-07 21:40:54.862 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-07 21:40:55.044 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-07 21:40:55.044 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-07 21:40:55.137 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-07 21:40:55.171 [main] INFO  A00980851.util.Logging - 2017-06-07T21:40:55.171
+2017-06-07 21:40:55.174 [main] INFO  A00980851.util.Logging - 730 Milli Seconds
+
+2017-06-07 21:46:08.648 [main] INFO  A00980851.util.Logging - 2017-06-07T21:46:08.599
+2017-06-07 21:46:08.775 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-07 21:46:09.222 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-07 21:46:09.442 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-07 21:46:09.442 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-07 21:46:09.517 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-07 21:46:09.537 [main] INFO  A00980851.util.Logging - 2017-06-07T21:46:09.537
+2017-06-07 21:46:09.540 [main] INFO  A00980851.util.Logging - 938 Milli Seconds
+
+2017-06-17 18:00:11.306 [main] INFO  A00980851.util.Logging - 2017-06-17T18:00:11.256
+2017-06-17 18:00:11.423 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 18:00:11.889 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 18:00:12.121 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 18:00:12.121 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 18:00:12.195 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 18:00:12.218 [main] INFO  A00980851.util.Logging - 2017-06-17T18:00:12.218
+2017-06-17 18:00:12.222 [main] INFO  A00980851.util.Logging - 962 Milli Seconds
+
+2017-06-17 20:08:24.598 [main] INFO  A00980851.util.Logging - 2017-06-17T20:08:24.543
+2017-06-17 20:08:25.162 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:08:25.412 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:08:25.595 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:08:25.595 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:08:25.686 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:08:25.686 [main] INFO  A00980851.util.Logging - 2017-06-17T20:08:25.686
+2017-06-17 20:08:25.689 [main] INFO  A00980851.util.Logging - 1143 Milli Seconds
+
+2017-06-17 20:08:42.696 [main] INFO  A00980851.util.Logging - 2017-06-17T20:08:42.640
+2017-06-17 20:08:43.226 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:08:43.500 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:08:43.683 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:08:43.684 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:08:43.766 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:08:43.767 [main] INFO  A00980851.util.Logging - 2017-06-17T20:08:43.767
+2017-06-17 20:08:43.769 [main] INFO  A00980851.util.Logging - 1127 Milli Seconds
+
+2017-06-17 20:10:00.193 [main] INFO  A00980851.util.Logging - 2017-06-17T20:10:00.141
+2017-06-17 20:10:00.645 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:10:00.828 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:10:01.042 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:10:01.042 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:10:01.121 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:10:01.122 [main] INFO  A00980851.util.Logging - 2017-06-17T20:10:01.122
+2017-06-17 20:10:01.124 [main] INFO  A00980851.util.Logging - 981 Milli Seconds
+
+2017-06-17 20:10:59.770 [main] INFO  A00980851.util.Logging - 2017-06-17T20:10:59.715
+2017-06-17 20:11:00.266 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:11:00.484 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:11:00.701 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:11:00.701 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:11:00.786 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:11:00.786 [main] INFO  A00980851.util.Logging - 2017-06-17T20:11:00.786
+2017-06-17 20:11:00.789 [main] INFO  A00980851.util.Logging - 1071 Milli Seconds
+
+2017-06-17 20:11:23.222 [main] INFO  A00980851.util.Logging - 2017-06-17T20:11:23.167
+2017-06-17 20:11:23.707 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:11:23.880 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:11:24.091 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:11:24.091 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:11:24.178 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:11:24.179 [main] INFO  A00980851.util.Logging - 2017-06-17T20:11:24.179
+2017-06-17 20:11:24.182 [main] INFO  A00980851.util.Logging - 1012 Milli Seconds
+
+2017-06-17 20:15:24.875 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:24.822
+2017-06-17 20:15:25.450 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:15:25.641 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:15:25.801 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:15:25.801 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:15:25.875 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:15:25.875 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:25.875
+2017-06-17 20:15:25.878 [main] INFO  A00980851.util.Logging - 1053 Milli Seconds
+
+2017-06-17 20:15:40.097 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:40.043
+2017-06-17 20:15:40.669 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:15:40.861 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:15:41.036 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:15:41.036 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:15:41.112 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:15:41.113 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:41.113
+2017-06-17 20:15:41.115 [main] INFO  A00980851.util.Logging - 1070 Milli Seconds
+
+2017-06-17 20:15:53.055 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:52.999
+2017-06-17 20:15:54.942 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:15:55.108 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:15:55.284 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:15:55.285 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:15:55.364 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:15:55.365 [main] INFO  A00980851.util.Logging - 2017-06-17T20:15:55.365
+2017-06-17 20:15:55.367 [main] INFO  A00980851.util.Logging - 2366 Milli Seconds
+
+2017-06-17 20:16:03.613 [main] INFO  A00980851.util.Logging - 2017-06-17T20:16:03.562
+2017-06-17 20:16:05.503 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:16:05.657 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:16:05.826 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:16:05.826 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:16:05.911 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:16:05.912 [main] INFO  A00980851.util.Logging - 2017-06-17T20:16:05.912
+2017-06-17 20:16:05.914 [main] INFO  A00980851.util.Logging - 2350 Milli Seconds
+
+2017-06-17 20:17:25.330 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:25.276
+2017-06-17 20:17:25.846 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:17:26.120 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:17:26.307 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:17:26.307 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:17:26.407 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:17:26.407 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:26.407
+2017-06-17 20:17:26.410 [main] INFO  A00980851.util.Logging - 1131 Milli Seconds
+
+2017-06-17 20:17:34.691 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:34.638
+2017-06-17 20:17:35.166 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:17:35.413 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:17:35.592 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:17:35.592 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:17:35.671 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:17:35.672 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:35.671
+2017-06-17 20:17:35.674 [main] INFO  A00980851.util.Logging - 1033 Milli Seconds
+
+2017-06-17 20:17:40.780 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:40.726
+2017-06-17 20:17:41.273 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:17:41.512 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:17:41.703 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:17:41.703 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:17:41.787 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:17:41.788 [main] INFO  A00980851.util.Logging - 2017-06-17T20:17:41.788
+2017-06-17 20:17:41.790 [main] INFO  A00980851.util.Logging - 1062 Milli Seconds
+
+2017-06-17 20:19:08.377 [main] INFO  A00980851.util.Logging - 2017-06-17T20:19:08.325
+2017-06-17 20:19:08.873 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:19:09.114 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:19:09.293 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:19:09.293 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:19:09.380 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:19:09.381 [main] INFO  A00980851.util.Logging - 2017-06-17T20:19:09.381
+2017-06-17 20:19:09.384 [main] INFO  A00980851.util.Logging - 1056 Milli Seconds
+
+2017-06-17 20:20:08.715 [main] INFO  A00980851.util.Logging - 2017-06-17T20:20:08.661
+2017-06-17 20:20:09.193 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:20:09.449 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:20:09.643 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:20:09.643 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:20:09.733 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:20:09.734 [main] INFO  A00980851.util.Logging - 2017-06-17T20:20:09.734
+2017-06-17 20:20:09.736 [main] INFO  A00980851.util.Logging - 1073 Milli Seconds
+
+2017-06-17 20:22:37.873 [main] INFO  A00980851.util.Logging - 2017-06-17T20:22:37.819
+2017-06-17 20:22:38.350 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:22:38.597 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:22:38.771 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:22:38.771 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:22:38.856 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:22:38.857 [main] INFO  A00980851.util.Logging - 2017-06-17T20:22:38.857
+2017-06-17 20:22:38.859 [main] INFO  A00980851.util.Logging - 1038 Milli Seconds
+
+2017-06-17 20:25:03.679 [main] INFO  A00980851.util.Logging - 2017-06-17T20:25:03.620
+2017-06-17 20:25:04.179 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:25:04.435 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:25:04.637 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:25:04.637 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:25:04.721 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:25:04.721 [main] INFO  A00980851.util.Logging - 2017-06-17T20:25:04.721
+2017-06-17 20:25:04.723 [main] INFO  A00980851.util.Logging - 1101 Milli Seconds
+
+2017-06-17 20:26:36.718 [main] INFO  A00980851.util.Logging - 2017-06-17T20:26:36.661
+2017-06-17 20:26:37.186 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:26:37.450 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:26:37.633 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:26:37.634 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:26:37.718 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:26:37.719 [main] INFO  A00980851.util.Logging - 2017-06-17T20:26:37.719
+2017-06-17 20:26:37.721 [main] INFO  A00980851.util.Logging - 1058 Milli Seconds
+
+2017-06-17 20:27:13.929 [main] INFO  A00980851.util.Logging - 2017-06-17T20:27:13.875
+2017-06-17 20:27:14.457 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:27:14.702 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:27:14.893 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:27:14.894 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:27:14.984 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:27:14.985 [main] INFO  A00980851.util.Logging - 2017-06-17T20:27:14.985
+2017-06-17 20:27:14.988 [main] INFO  A00980851.util.Logging - 1110 Milli Seconds
+
+2017-06-17 20:31:36.563 [main] INFO  A00980851.util.Logging - 2017-06-17T20:31:36.513
+2017-06-17 20:31:37.085 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:31:37.319 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:31:37.512 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:31:37.513 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:31:37.615 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:31:37.615 [main] INFO  A00980851.util.Logging - 2017-06-17T20:31:37.615
+2017-06-17 20:31:37.618 [main] INFO  A00980851.util.Logging - 1102 Milli Seconds
+
+2017-06-17 20:32:07.128 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:07.072
+2017-06-17 20:32:07.592 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:32:07.862 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:32:08.049 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:32:08.049 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:32:08.134 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:32:08.134 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:08.134
+2017-06-17 20:32:08.137 [main] INFO  A00980851.util.Logging - 1062 Milli Seconds
+
+2017-06-17 20:32:26.686 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:26.631
+2017-06-17 20:32:27.216 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:32:27.448 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:32:27.624 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:32:27.624 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:32:27.709 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:32:27.709 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:27.709
+2017-06-17 20:32:27.712 [main] INFO  A00980851.util.Logging - 1078 Milli Seconds
+
+2017-06-17 20:32:40.136 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:40.083
+2017-06-17 20:32:40.630 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:32:40.858 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:32:41.038 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:32:41.038 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:32:41.122 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:32:41.122 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:41.122
+2017-06-17 20:32:41.125 [main] INFO  A00980851.util.Logging - 1039 Milli Seconds
+
+2017-06-17 20:32:56.064 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:56.011
+2017-06-17 20:32:56.553 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:32:56.782 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:32:56.954 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:32:56.955 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:32:57.035 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:32:57.035 [main] INFO  A00980851.util.Logging - 2017-06-17T20:32:57.035
+2017-06-17 20:32:57.037 [main] INFO  A00980851.util.Logging - 1024 Milli Seconds
+
+2017-06-17 20:35:31.715 [main] INFO  A00980851.util.Logging - 2017-06-17T20:35:31.663
+2017-06-17 20:35:32.220 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:35:32.458 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:35:32.642 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:35:32.642 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:35:32.721 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:35:32.721 [main] INFO  A00980851.util.Logging - 2017-06-17T20:35:32.721
+2017-06-17 20:35:32.724 [main] INFO  A00980851.util.Logging - 1058 Milli Seconds
+
+2017-06-17 20:37:54.090 [main] INFO  A00980851.util.Logging - 2017-06-17T20:37:54.038
+2017-06-17 20:37:54.576 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:37:54.806 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:37:55.013 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:37:55.014 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:37:55.096 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:37:55.096 [main] INFO  A00980851.util.Logging - 2017-06-17T20:37:55.096
+2017-06-17 20:37:55.099 [main] INFO  A00980851.util.Logging - 1058 Milli Seconds
+
+2017-06-17 20:37:56.811 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:37:56.813 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:38:08.916 [main] INFO  A00980851.util.Logging - 2017-06-17T20:38:08.862
+2017-06-17 20:38:09.402 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:38:09.636 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:38:09.820 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:38:09.821 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:38:09.907 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:38:09.907 [main] INFO  A00980851.util.Logging - 2017-06-17T20:38:09.907
+2017-06-17 20:38:09.909 [main] INFO  A00980851.util.Logging - 1045 Milli Seconds
+
+2017-06-17 20:38:15.054 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:38:15.055 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:38:45.771 [main] INFO  A00980851.util.Logging - 2017-06-17T20:38:45.717
+2017-06-17 20:38:45.908 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:38:46.128 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:38:46.330 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:38:46.331 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:38:46.427 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:38:46.697 [main] INFO  A00980851.util.Logging - 2017-06-17T20:38:46.697
+2017-06-17 20:38:46.701 [main] INFO  A00980851.util.Logging - 980 Milli Seconds
+
+2017-06-17 20:39:37.482 [main] INFO  A00980851.util.Logging - 2017-06-17T20:39:37.428
+2017-06-17 20:39:37.611 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:39:37.834 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:39:38.046 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:39:38.047 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:39:38.144 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:39:38.144 [main] ERROR A00980851.util.Logging - null
+2017-06-17 20:39:38.145 [main] INFO  A00980851.util.Logging - 2017-06-17T20:39:38.145
+2017-06-17 20:39:38.148 [main] INFO  A00980851.util.Logging - 717 Milli Seconds
+
+2017-06-17 20:39:49.034 [main] INFO  A00980851.util.Logging - 2017-06-17T20:39:48.980
+2017-06-17 20:39:49.162 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:39:49.378 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:39:49.577 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:39:49.577 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:39:49.674 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:39:49.674 [main] ERROR A00980851.util.Logging - null
+2017-06-17 20:39:49.675 [main] INFO  A00980851.util.Logging - 2017-06-17T20:39:49.675
+2017-06-17 20:39:49.677 [main] INFO  A00980851.util.Logging - 695 Milli Seconds
+
+2017-06-17 20:40:16.931 [main] INFO  A00980851.util.Logging - 2017-06-17T20:40:16.876
+2017-06-17 20:40:17.062 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:40:17.286 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:40:17.505 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:40:17.505 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:40:17.590 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:40:17.591 [main] ERROR A00980851.util.Logging - null
+2017-06-17 20:40:17.592 [main] INFO  A00980851.util.Logging - 2017-06-17T20:40:17.592
+2017-06-17 20:40:17.594 [main] INFO  A00980851.util.Logging - 716 Milli Seconds
+
+2017-06-17 20:40:41.160 [main] INFO  A00980851.util.Logging - 2017-06-17T20:40:41.105
+2017-06-17 20:40:41.297 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:40:41.556 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:40:41.733 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:40:41.734 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:40:41.828 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:40:41.828 [main] INFO  A00980851.util.Logging - 2017-06-17T20:40:41.828
+2017-06-17 20:40:41.831 [main] INFO  A00980851.util.Logging - 723 Milli Seconds
+
+2017-06-17 20:42:31.188 [main] INFO  A00980851.util.Logging - 2017-06-17T20:42:31.131
+2017-06-17 20:42:31.339 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:42:31.567 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:42:31.775 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:42:31.775 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:42:31.864 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:42:31.865 [main] INFO  A00980851.util.Logging - 2017-06-17T20:42:31.865
+2017-06-17 20:42:31.868 [main] INFO  A00980851.util.Logging - 734 Milli Seconds
+
+2017-06-17 20:42:54.192 [main] INFO  A00980851.util.Logging - 2017-06-17T20:42:54.142
+2017-06-17 20:42:54.324 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:42:54.535 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:42:54.744 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:42:54.744 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:42:54.835 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:42:54.856 [main] INFO  A00980851.util.Logging - 2017-06-17T20:42:54.856
+2017-06-17 20:42:54.859 [main] INFO  A00980851.util.Logging - 714 Milli Seconds
+
+2017-06-17 20:43:59.147 [main] INFO  A00980851.util.Logging - 2017-06-17T20:43:59.092
+2017-06-17 20:43:59.283 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:43:59.528 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:43:59.737 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:43:59.738 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:43:59.834 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:44:00.118 [main] INFO  A00980851.util.Logging - 2017-06-17T20:44:00.118
+2017-06-17 20:44:00.121 [main] INFO  A00980851.util.Logging - 1026 Milli Seconds
+
+2017-06-17 20:44:02.497 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:44:02.499 [AWT-EventQueue-0] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:48:47.165 [main] INFO  A00980851.util.Logging - 2017-06-17T20:48:47.111
+2017-06-17 20:48:47.294 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:48:47.496 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:48:47.707 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:48:47.707 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:48:47.796 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:48:48.085 [main] INFO  A00980851.util.Logging - 2017-06-17T20:48:48.085
+2017-06-17 20:48:48.088 [main] INFO  A00980851.util.Logging - 974 Milli Seconds
+
+2017-06-17 20:49:06.555 [main] INFO  A00980851.util.Logging - 2017-06-17T20:49:06.502
+2017-06-17 20:49:06.687 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:49:06.896 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:49:07.098 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:49:07.099 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:49:07.196 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:49:07.486 [main] INFO  A00980851.util.Logging - 2017-06-17T20:49:07.486
+2017-06-17 20:49:07.489 [main] INFO  A00980851.util.Logging - 984 Milli Seconds
+
+2017-06-17 20:50:18.218 [main] INFO  A00980851.util.Logging - 2017-06-17T20:50:18.163
+2017-06-17 20:50:18.351 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:50:18.573 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:50:18.769 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:50:18.770 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:50:18.863 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:50:19.156 [main] INFO  A00980851.util.Logging - 2017-06-17T20:50:19.156
+2017-06-17 20:50:19.159 [main] INFO  A00980851.util.Logging - 993 Milli Seconds
+
+2017-06-17 20:50:41.731 [main] INFO  A00980851.util.Logging - 2017-06-17T20:50:41.677
+2017-06-17 20:50:41.861 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:50:42.084 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:50:42.282 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:50:42.283 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:50:42.376 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:50:42.671 [main] INFO  A00980851.util.Logging - 2017-06-17T20:50:42.671
+2017-06-17 20:50:42.675 [main] INFO  A00980851.util.Logging - 994 Milli Seconds
+
+2017-06-17 20:52:31.850 [main] INFO  A00980851.util.Logging - 2017-06-17T20:52:31.796
+2017-06-17 20:52:31.985 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:52:32.198 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:52:32.401 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:52:32.401 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:52:32.494 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:52:32.783 [main] INFO  A00980851.util.Logging - 2017-06-17T20:52:32.783
+2017-06-17 20:52:32.786 [main] INFO  A00980851.util.Logging - 987 Milli Seconds
+
+2017-06-17 20:53:30.366 [main] INFO  A00980851.util.Logging - 2017-06-17T20:53:30.314
+2017-06-17 20:53:30.504 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:53:30.720 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:53:30.924 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:53:30.924 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:53:31.017 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:53:31.303 [main] INFO  A00980851.util.Logging - 2017-06-17T20:53:31.303
+2017-06-17 20:53:31.306 [main] INFO  A00980851.util.Logging - 989 Milli Seconds
+
+2017-06-17 20:53:49.952 [main] INFO  A00980851.util.Logging - 2017-06-17T20:53:49.899
+2017-06-17 20:53:50.089 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:53:50.312 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:53:50.511 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:53:50.512 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:53:50.608 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:53:50.908 [main] INFO  A00980851.util.Logging - 2017-06-17T20:53:50.908
+2017-06-17 20:53:50.911 [main] INFO  A00980851.util.Logging - 1009 Milli Seconds
+
+2017-06-17 20:55:07.830 [main] INFO  A00980851.util.Logging - 2017-06-17T20:55:07.775
+2017-06-17 20:55:07.963 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:55:08.175 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:55:08.374 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:55:08.374 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:55:08.461 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:55:08.755 [main] INFO  A00980851.util.Logging - 2017-06-17T20:55:08.755
+2017-06-17 20:55:08.757 [main] INFO  A00980851.util.Logging - 980 Milli Seconds
+
+2017-06-17 20:55:47.325 [main] INFO  A00980851.util.Logging - 2017-06-17T20:55:47.272
+2017-06-17 20:55:47.459 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 20:55:47.668 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 20:55:47.866 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 20:55:47.866 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 20:55:47.959 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 20:55:48.239 [main] INFO  A00980851.util.Logging - 2017-06-17T20:55:48.239
+2017-06-17 20:55:48.242 [main] INFO  A00980851.util.Logging - 967 Milli Seconds
+
+2017-06-17 21:01:31.651 [main] INFO  A00980851.util.Logging - 2017-06-17T21:01:31.594
+2017-06-17 21:01:31.785 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:01:31.990 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:01:32.197 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:01:32.197 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:01:32.290 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:01:32.570 [main] INFO  A00980851.util.Logging - 2017-06-17T21:01:32.570
+2017-06-17 21:01:32.574 [main] INFO  A00980851.util.Logging - 976 Milli Seconds
+
+2017-06-17 21:01:50.866 [main] INFO  A00980851.util.Logging - 2017-06-17T21:01:50.814
+2017-06-17 21:01:50.999 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:01:51.211 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:01:51.414 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:01:51.414 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:01:51.506 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:01:51.784 [main] INFO  A00980851.util.Logging - 2017-06-17T21:01:51.784
+2017-06-17 21:01:51.788 [main] INFO  A00980851.util.Logging - 970 Milli Seconds
+
+2017-06-17 21:03:09.299 [main] INFO  A00980851.util.Logging - 2017-06-17T21:03:09.243
+2017-06-17 21:03:09.431 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:03:09.634 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:03:09.845 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:03:09.845 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:03:09.935 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:03:10.224 [main] INFO  A00980851.util.Logging - 2017-06-17T21:03:10.224
+2017-06-17 21:03:10.227 [main] INFO  A00980851.util.Logging - 981 Milli Seconds
+
+2017-06-17 21:03:57.080 [main] INFO  A00980851.util.Logging - 2017-06-17T21:03:57.025
+2017-06-17 21:03:57.219 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:03:57.447 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:03:57.657 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:03:57.657 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:03:57.750 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:03:58.035 [main] INFO  A00980851.util.Logging - 2017-06-17T21:03:58.035
+2017-06-17 21:03:58.039 [main] INFO  A00980851.util.Logging - 1010 Milli Seconds
+
+2017-06-17 21:06:40.115 [main] INFO  A00980851.util.Logging - 2017-06-17T21:06:40.047
+2017-06-17 21:06:40.265 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:06:40.465 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:06:40.657 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:06:40.657 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:06:40.750 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:06:41.017 [main] INFO  A00980851.util.Logging - 2017-06-17T21:06:41.017
+2017-06-17 21:06:41.021 [main] INFO  A00980851.util.Logging - 970 Milli Seconds
+
+2017-06-17 21:11:23.334 [main] INFO  A00980851.util.Logging - 2017-06-17T21:11:23.281
+2017-06-17 21:11:23.468 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:11:23.672 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:11:23.871 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:11:23.871 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:11:23.970 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:11:24.247 [main] INFO  A00980851.util.Logging - 2017-06-17T21:11:24.247
+2017-06-17 21:11:24.250 [main] INFO  A00980851.util.Logging - 966 Milli Seconds
+
+2017-06-17 21:31:05.221 [main] INFO  A00980851.util.Logging - 2017-06-17T21:31:05.171
+2017-06-17 21:31:05.348 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:31:05.560 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:31:05.799 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:31:05.799 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:31:05.885 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:31:06.170 [main] INFO  A00980851.util.Logging - 2017-06-17T21:31:06.170
+2017-06-17 21:31:06.173 [main] INFO  A00980851.util.Logging - 999 Milli Seconds
+
+2017-06-17 21:31:30.302 [main] INFO  A00980851.util.Logging - 2017-06-17T21:31:30.248
+2017-06-17 21:31:30.432 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:31:30.655 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:31:30.859 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:31:30.860 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:31:30.959 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:31:31.249 [main] INFO  A00980851.util.Logging - 2017-06-17T21:31:31.249
+2017-06-17 21:31:31.253 [main] INFO  A00980851.util.Logging - 1001 Milli Seconds
+
+2017-06-17 21:32:01.903 [main] INFO  A00980851.util.Logging - 2017-06-17T21:32:01.846
+2017-06-17 21:32:02.035 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:32:02.264 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:32:02.462 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:32:02.462 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:32:02.554 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:32:02.827 [main] INFO  A00980851.util.Logging - 2017-06-17T21:32:02.827
+2017-06-17 21:32:02.830 [main] INFO  A00980851.util.Logging - 981 Milli Seconds
+
+2017-06-17 21:33:26.715 [main] INFO  A00980851.util.Logging - 2017-06-17T21:33:26.661
+2017-06-17 21:33:26.844 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:33:27.056 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:33:27.260 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:33:27.260 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:33:27.355 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:33:27.648 [main] INFO  A00980851.util.Logging - 2017-06-17T21:33:27.648
+2017-06-17 21:33:27.651 [main] INFO  A00980851.util.Logging - 987 Milli Seconds
+
+2017-06-17 21:35:51.094 [main] INFO  A00980851.util.Logging - 2017-06-17T21:35:51.046
+2017-06-17 21:35:51.225 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:35:51.431 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:35:51.641 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:35:51.641 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:35:51.726 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:35:52.011 [main] INFO  A00980851.util.Logging - 2017-06-17T21:35:52.011
+2017-06-17 21:35:52.014 [main] INFO  A00980851.util.Logging - 965 Milli Seconds
+
+2017-06-17 21:36:05.374 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:05.319
+2017-06-17 21:36:05.504 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:36:05.719 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:36:05.927 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:36:05.928 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:36:06.021 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:36:06.297 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:06.297
+2017-06-17 21:36:06.302 [main] INFO  A00980851.util.Logging - 978 Milli Seconds
+
+2017-06-17 21:36:27.110 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:27.052
+2017-06-17 21:36:27.240 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:36:27.484 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:36:27.684 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:36:27.685 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:36:27.776 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:36:28.060 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:28.060
+2017-06-17 21:36:28.062 [main] INFO  A00980851.util.Logging - 1008 Milli Seconds
+
+2017-06-17 21:36:48.909 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:48.852
+2017-06-17 21:36:49.037 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:36:49.256 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:36:49.483 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:36:49.483 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:36:49.572 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:36:49.863 [main] INFO  A00980851.util.Logging - 2017-06-17T21:36:49.863
+2017-06-17 21:36:49.866 [main] INFO  A00980851.util.Logging - 1011 Milli Seconds
+
+2017-06-17 21:37:18.080 [main] INFO  A00980851.util.Logging - 2017-06-17T21:37:18.021
+2017-06-17 21:37:18.217 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:37:18.424 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:37:18.622 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:37:18.623 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:37:18.718 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:37:18.997 [main] INFO  A00980851.util.Logging - 2017-06-17T21:37:18.997
+2017-06-17 21:37:19.000 [main] INFO  A00980851.util.Logging - 976 Milli Seconds
+
+2017-06-17 21:37:41.809 [main] INFO  A00980851.util.Logging - 2017-06-17T21:37:41.755
+2017-06-17 21:37:41.936 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:37:42.147 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:37:42.355 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:37:42.355 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:37:42.445 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:37:42.713 [main] INFO  A00980851.util.Logging - 2017-06-17T21:37:42.713
+2017-06-17 21:37:42.718 [main] INFO  A00980851.util.Logging - 958 Milli Seconds
+
+2017-06-17 21:38:57.356 [main] INFO  A00980851.util.Logging - 2017-06-17T21:38:57.302
+2017-06-17 21:38:57.485 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:38:57.693 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:38:57.892 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:38:57.892 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:38:57.981 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:38:58.276 [main] INFO  A00980851.util.Logging - 2017-06-17T21:38:58.276
+2017-06-17 21:38:58.279 [main] INFO  A00980851.util.Logging - 974 Milli Seconds
+
+2017-06-17 21:44:26.721 [main] INFO  A00980851.util.Logging - 2017-06-17T21:44:26.668
+2017-06-17 21:44:26.852 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:44:27.030 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:44:27.211 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:44:27.211 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:44:27.298 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:44:27.568 [main] INFO  A00980851.util.Logging - 2017-06-17T21:44:27.567
+2017-06-17 21:44:27.573 [main] INFO  A00980851.util.Logging - 899 Milli Seconds
+
+2017-06-17 21:48:37.869 [main] INFO  A00980851.util.Logging - 2017-06-17T21:48:37.812
+2017-06-17 21:48:37.997 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:48:38.232 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:48:38.444 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:48:38.444 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:48:38.531 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:48:38.812 [main] INFO  A00980851.util.Logging - 2017-06-17T21:48:38.812
+2017-06-17 21:48:38.815 [main] INFO  A00980851.util.Logging - 1000 Milli Seconds
+
+2017-06-17 21:50:31.018 [main] INFO  A00980851.util.Logging - 2017-06-17T21:50:30.961
+2017-06-17 21:50:31.153 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:50:31.372 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:50:31.578 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:50:31.579 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:50:31.672 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:50:31.950 [main] INFO  A00980851.util.Logging - 2017-06-17T21:50:31.950
+2017-06-17 21:50:31.953 [main] INFO  A00980851.util.Logging - 989 Milli Seconds
+
+2017-06-17 21:50:51.867 [main] INFO  A00980851.util.Logging - 2017-06-17T21:50:51.812
+2017-06-17 21:50:51.996 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:50:52.202 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:50:52.406 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:50:52.406 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:50:52.499 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:50:52.765 [main] INFO  A00980851.util.Logging - 2017-06-17T21:50:52.765
+2017-06-17 21:50:52.768 [main] INFO  A00980851.util.Logging - 953 Milli Seconds
+
+2017-06-17 21:52:59.663 [main] INFO  A00980851.util.Logging - 2017-06-17T21:52:59.605
+2017-06-17 21:52:59.796 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 21:53:00.013 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 21:53:00.221 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 21:53:00.221 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 21:53:00.313 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 21:53:00.609 [main] INFO  A00980851.util.Logging - 2017-06-17T21:53:00.609
+2017-06-17 21:53:00.612 [main] INFO  A00980851.util.Logging - 1004 Milli Seconds
+
+2017-06-17 22:07:00.899 [main] INFO  A00980851.util.Logging - 2017-06-17T22:07:00.843
+2017-06-17 22:07:01.023 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:07:01.244 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:07:01.449 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:07:01.449 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:07:01.541 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:07:01.821 [main] INFO  A00980851.util.Logging - 2017-06-17T22:07:01.821
+2017-06-17 22:07:01.823 [main] INFO  A00980851.util.Logging - 978 Milli Seconds
+
+2017-06-17 22:13:00.469 [main] INFO  A00980851.util.Logging - 2017-06-17T22:13:00.416
+2017-06-17 22:13:00.596 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:13:00.807 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:13:01.013 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:13:01.013 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:13:01.102 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:13:01.233 [main] INFO  A00980851.util.Logging - 2017-06-17T22:13:01.233
+2017-06-17 22:13:01.262 [main] INFO  A00980851.util.Logging - 817 Milli Seconds
+
+2017-06-17 22:14:06.209 [main] INFO  A00980851.util.Logging - 2017-06-17T22:14:06.157
+2017-06-17 22:14:06.336 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:14:06.562 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:14:06.783 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:14:06.784 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:14:06.871 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:14:07.006 [main] INFO  A00980851.util.Logging - 2017-06-17T22:14:07.006
+2017-06-17 22:14:07.034 [main] INFO  A00980851.util.Logging - 849 Milli Seconds
+
+2017-06-17 22:15:12.475 [main] INFO  A00980851.util.Logging - 2017-06-17T22:15:12.423
+2017-06-17 22:15:12.603 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:15:12.817 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:15:13.020 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:15:13.021 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:15:13.112 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:15:13.246 [main] INFO  A00980851.util.Logging - 2017-06-17T22:15:13.246
+2017-06-17 22:15:13.277 [main] INFO  A00980851.util.Logging - 823 Milli Seconds
+
+2017-06-17 22:16:12.564 [main] INFO  A00980851.util.Logging - 2017-06-17T22:16:12.511
+2017-06-17 22:16:12.691 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:16:12.904 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:16:13.111 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:16:13.111 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:16:13.206 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:16:13.342 [main] INFO  A00980851.util.Logging - 2017-06-17T22:16:13.342
+2017-06-17 22:16:13.377 [main] INFO  A00980851.util.Logging - 831 Milli Seconds
+
+2017-06-17 22:20:57.438 [main] INFO  A00980851.util.Logging - 2017-06-17T22:20:57.381
+2017-06-17 22:20:57.571 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:20:57.624 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:20:57.635 [main] ERROR A00980851.JDBC.DAO.DbTest - null
+2017-06-17 22:20:57.847 [main] INFO  A00980851.util.Logging - 2017-06-17T22:20:57.847
+2017-06-17 22:20:57.850 [main] INFO  A00980851.util.Logging - 466 Milli Seconds
+
+2017-06-17 22:21:27.578 [main] INFO  A00980851.util.Logging - 2017-06-17T22:21:27.526
+2017-06-17 22:21:27.703 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:21:27.757 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:21:27.766 [main] ERROR A00980851.JDBC.DAO.DbTest - null
+2017-06-17 22:21:27.943 [main] INFO  A00980851.util.Logging - 2017-06-17T22:21:27.943
+2017-06-17 22:21:27.948 [main] INFO  A00980851.util.Logging - 417 Milli Seconds
+
+2017-06-17 22:23:28.924 [main] INFO  A00980851.util.Logging - 2017-06-17T22:23:28.870
+2017-06-17 22:23:29.063 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:23:29.136 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:23:29.145 [main] ERROR A00980851.JDBC.DAO.DbTest - null
+2017-06-17 22:23:29.311 [main] INFO  A00980851.util.Logging - 2017-06-17T22:23:29.311
+2017-06-17 22:23:29.315 [main] INFO  A00980851.util.Logging - 441 Milli Seconds
+
+2017-06-17 22:23:40.625 [main] INFO  A00980851.util.Logging - 2017-06-17T22:23:40.571
+2017-06-17 22:23:40.754 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:23:40.998 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:23:41.208 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:23:41.208 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:23:41.297 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:23:41.431 [main] INFO  A00980851.util.Logging - 2017-06-17T22:23:41.431
+2017-06-17 22:23:41.459 [main] INFO  A00980851.util.Logging - 860 Milli Seconds
+
+2017-06-17 22:24:10.058 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:10.003
+2017-06-17 22:24:10.240 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:24:10.494 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:24:10.704 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:24:10.704 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:24:10.802 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:24:10.934 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:10.933
+2017-06-17 22:24:10.964 [main] INFO  A00980851.util.Logging - 930 Milli Seconds
+
+2017-06-17 22:24:21.317 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:21.265
+2017-06-17 22:24:21.452 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:24:21.661 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:24:21.865 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:24:21.865 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:24:21.960 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:24:22.105 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:22.105
+2017-06-17 22:24:22.134 [main] INFO  A00980851.util.Logging - 840 Milli Seconds
+
+2017-06-17 22:24:32.548 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:32.491
+2017-06-17 22:24:32.677 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:24:32.903 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:24:33.106 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:24:33.106 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:24:33.200 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:24:33.349 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:33.349
+2017-06-17 22:24:33.379 [main] INFO  A00980851.util.Logging - 858 Milli Seconds
+
+2017-06-17 22:24:42.478 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:42.423
+2017-06-17 22:24:42.603 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:24:42.822 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:24:43.029 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:24:43.030 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:24:43.122 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:24:43.267 [main] INFO  A00980851.util.Logging - 2017-06-17T22:24:43.267
+2017-06-17 22:24:43.297 [main] INFO  A00980851.util.Logging - 844 Milli Seconds
+
+2017-06-17 22:25:11.683 [main] INFO  A00980851.util.Logging - 2017-06-17T22:25:11.622
+2017-06-17 22:25:11.824 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:25:12.042 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:25:12.266 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:25:12.267 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:25:12.359 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:25:12.491 [main] INFO  A00980851.util.Logging - 2017-06-17T22:25:12.491
+2017-06-17 22:25:12.522 [main] INFO  A00980851.util.Logging - 869 Milli Seconds
+
+2017-06-17 22:26:11.055 [main] INFO  A00980851.util.Logging - 2017-06-17T22:26:11.008
+2017-06-17 22:26:11.174 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:26:11.371 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:26:11.563 [main] INFO  A00980851.JDBC.DAO.customerDao - Customers are present in table- Deleting table
+2017-06-17 22:26:11.563 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:26:11.650 [main] INFO  A00980851.JDBC.DAO.customerDao - data inserted successfully
+2017-06-17 22:26:11.781 [main] INFO  A00980851.util.Logging - 2017-06-17T22:26:11.781
+2017-06-17 22:26:11.824 [main] INFO  A00980851.util.Logging - 773 Milli Seconds
+
+2017-06-17 22:27:22.246 [main] INFO  A00980851.util.Logging - 2017-06-17T22:27:22.200
+2017-06-17 22:27:22.367 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:27:22.535 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:27:22.717 [main] INFO  A00980851.JDBC.DAO.customerDao - Customers are present in table- Deleting table
+2017-06-17 22:27:22.717 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:27:22.801 [main] INFO  A00980851.JDBC.DAO.customerDao - data inserted successfully
+2017-06-17 22:27:22.939 [main] INFO  A00980851.util.Logging - 2017-06-17T22:27:22.939
+2017-06-17 22:27:22.978 [main] INFO  A00980851.util.Logging - 739 Milli Seconds
+
+2017-06-17 22:28:22.885 [main] INFO  A00980851.util.Logging - 2017-06-17T22:28:22.839
+2017-06-17 22:28:23.007 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:28:23.170 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:28:23.344 [main] INFO  A00980851.JDBC.DAO.customerDao - Customers are present in table- Deleting table
+2017-06-17 22:28:23.344 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:28:23.425 [main] INFO  A00980851.JDBC.DAO.customerDao - data inserted successfully
+2017-06-17 22:28:23.567 [main] INFO  A00980851.util.Logging - 2017-06-17T22:28:23.567
+2017-06-17 22:28:23.604 [main] INFO  A00980851.util.Logging - 728 Milli Seconds
+
+2017-06-17 22:29:26.320 [main] INFO  A00980851.util.Logging - 2017-06-17T22:29:26.271
+2017-06-17 22:29:26.441 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:29:26.603 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:29:26.776 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:29:26.776 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:29:26.852 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:29:26.982 [main] INFO  A00980851.util.Logging - 2017-06-17T22:29:26.982
+2017-06-17 22:29:27.023 [main] INFO  A00980851.util.Logging - 711 Milli Seconds
+
+2017-06-17 22:31:03.498 [main] INFO  A00980851.util.Logging - 2017-06-17T22:31:03.445
+2017-06-17 22:31:03.626 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:31:03.678 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:31:03.687 [main] ERROR A00980851.JDBC.DAO.DbTest - null
+2017-06-17 22:31:03.860 [main] INFO  A00980851.util.Logging - 2017-06-17T22:31:03.860
+2017-06-17 22:31:03.864 [main] INFO  A00980851.util.Logging - 415 Milli Seconds
+
+2017-06-17 22:31:22.490 [main] INFO  A00980851.util.Logging - 2017-06-17T22:31:22.438
+2017-06-17 22:31:22.627 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-17 22:31:22.897 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-17 22:31:23.119 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-17 22:31:23.119 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-17 22:31:23.213 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-17 22:31:23.350 [main] INFO  A00980851.util.Logging - 2017-06-17T22:31:23.350
+2017-06-17 22:31:23.382 [main] INFO  A00980851.util.Logging - 912 Milli Seconds
+
+2017-06-18 16:45:20.646 [main] INFO  A00980851.util.Logging - 2017-06-18T16:45:20.586
+2017-06-18 16:45:20.840 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:45:21.066 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:45:21.283 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:45:21.283 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:45:21.377 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:45:21.526 [main] INFO  A00980851.util.Logging - 2017-06-18T16:45:21.526
+2017-06-18 16:45:21.557 [main] INFO  A00980851.util.Logging - 940 Milli Seconds
+
+2017-06-18 16:46:23.730 [main] INFO  A00980851.util.Logging - 2017-06-18T16:46:23.673
+2017-06-18 16:46:23.857 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:46:24.075 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:46:24.278 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:46:24.278 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:46:24.368 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:46:24.507 [main] INFO  A00980851.util.Logging - 2017-06-18T16:46:24.507
+2017-06-18 16:46:24.534 [main] INFO  A00980851.util.Logging - 834 Milli Seconds
+
+2017-06-18 16:49:24.634 [main] INFO  A00980851.util.Logging - 2017-06-18T16:49:24.579
+2017-06-18 16:49:24.762 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:49:24.812 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:49:24.821 [main] ERROR A00980851.JDBC.DAO.DbTest - null
+2017-06-18 16:49:25.002 [main] INFO  A00980851.util.Logging - 2017-06-18T16:49:25.002
+2017-06-18 16:49:25.006 [main] INFO  A00980851.util.Logging - 423 Milli Seconds
+
+2017-06-18 16:49:34.765 [main] INFO  A00980851.util.Logging - 2017-06-18T16:49:34.709
+2017-06-18 16:49:34.890 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:49:35.110 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:49:35.323 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:49:35.323 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:49:35.411 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:49:35.540 [main] INFO  A00980851.util.Logging - 2017-06-18T16:49:35.540
+2017-06-18 16:49:35.568 [main] INFO  A00980851.util.Logging - 831 Milli Seconds
+
+2017-06-18 16:50:46.886 [main] INFO  A00980851.util.Logging - 2017-06-18T16:50:46.830
+2017-06-18 16:50:47.014 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:50:47.212 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:50:47.419 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:50:47.420 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:50:47.510 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:50:47.635 [main] INFO  A00980851.util.Logging - 2017-06-18T16:50:47.635
+2017-06-18 16:50:47.663 [main] INFO  A00980851.util.Logging - 805 Milli Seconds
+
+2017-06-18 16:52:48.910 [main] INFO  A00980851.util.Logging - 2017-06-18T16:52:48.855
+2017-06-18 16:52:49.036 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:52:49.242 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:52:49.447 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:52:49.447 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:52:49.536 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:52:49.664 [main] INFO  A00980851.util.Logging - 2017-06-18T16:52:49.664
+2017-06-18 16:52:49.692 [main] INFO  A00980851.util.Logging - 809 Milli Seconds
+
+2017-06-18 16:53:17.622 [main] INFO  A00980851.util.Logging - 2017-06-18T16:53:17.570
+2017-06-18 16:53:17.756 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:53:17.980 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:53:18.195 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:53:18.195 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:53:18.291 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:53:18.422 [main] INFO  A00980851.util.Logging - 2017-06-18T16:53:18.422
+2017-06-18 16:53:18.453 [main] INFO  A00980851.util.Logging - 852 Milli Seconds
+
+2017-06-18 16:59:58.093 [main] INFO  A00980851.util.Logging - 2017-06-18T16:59:58.040
+2017-06-18 16:59:58.221 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 16:59:58.428 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 16:59:58.626 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 16:59:58.627 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 16:59:58.715 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 16:59:58.842 [main] INFO  A00980851.util.Logging - 2017-06-18T16:59:58.842
+2017-06-18 16:59:58.869 [main] INFO  A00980851.util.Logging - 802 Milli Seconds
+
+2017-06-18 17:00:24.690 [main] INFO  A00980851.util.Logging - 2017-06-18T17:00:24.637
+2017-06-18 17:00:24.819 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 17:00:25.020 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 17:00:25.220 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 17:00:25.220 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 17:00:25.312 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 17:00:25.438 [main] INFO  A00980851.util.Logging - 2017-06-18T17:00:25.438
+2017-06-18 17:00:25.469 [main] INFO  A00980851.util.Logging - 801 Milli Seconds
+
+2017-06-18 17:03:37.280 [main] INFO  A00980851.util.Logging - 2017-06-18T17:03:37.228
+2017-06-18 17:03:37.409 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - Driver loading
+2017-06-18 17:03:37.628 [main] INFO  A00980851.JDBC.DAO.DatabaseSetup - LOG database connected database
+2017-06-18 17:03:37.848 [main] INFO  A00980851.JDBC.DAO.CustomerDao - Customers are present in table- Deleting table
+2017-06-18 17:03:37.849 [main] INFO  A00980851.JDBC.DAO.DAO - Table created sucessfully
+2017-06-18 17:03:37.939 [main] INFO  A00980851.JDBC.DAO.CustomerDao - data inserted successfully
+2017-06-18 17:03:38.067 [main] INFO  A00980851.util.Logging - 2017-06-18T17:03:38.067
+2017-06-18 17:03:38.097 [main] INFO  A00980851.util.Logging - 839 Milli Seconds
+

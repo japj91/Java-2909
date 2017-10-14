@@ -1,0 +1,83 @@
+2017-06-18 17:56:00.024 [main] INFO  A00980851.Bcmc - 
+2017-06-18 17:56:00.085 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T00:56:00.026Z
+2017-06-18 17:56:00.086 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 17:56:00.093 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 17:56:00.094 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 17:56:00.097 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 17:56:00.100 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 17:56:00.100 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 17:56:00.117 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T00:56:00.117Z
+2017-06-18 17:56:00.117 [main] INFO  A00980851.Bcmc - Time application took to run 91 ms 
+2017-06-18 17:56:14.907 [main] INFO  A00980851.Bcmc - 
+2017-06-18 17:56:14.964 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T00:56:14.908Z
+2017-06-18 17:56:14.965 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 17:56:14.971 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 17:56:14.972 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 17:56:14.975 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 17:56:14.978 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 17:56:14.978 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 17:56:14.994 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T00:56:14.994Z
+2017-06-18 17:56:14.995 [main] INFO  A00980851.Bcmc - Time application took to run 86 ms 
+2017-06-18 17:58:06.383 [main] INFO  A00980851.Bcmc - 
+2017-06-18 17:58:06.440 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T00:58:06.384Z
+2017-06-18 17:58:06.441 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 17:58:06.447 [main] INFO  A00980851.io.readers.CustomerReader - read in 5 customer objects
+2017-06-18 17:58:06.447 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 17:58:06.449 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 17:58:06.451 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 17:58:06.454 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 17:58:06.454 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 17:58:06.469 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T00:58:06.469Z
+2017-06-18 17:58:06.469 [main] INFO  A00980851.Bcmc - Time application took to run 85 ms 
+2017-06-18 17:58:28.747 [main] INFO  A00980851.Bcmc - 
+2017-06-18 17:58:28.810 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T00:58:28.749Z
+2017-06-18 17:58:28.811 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 17:58:28.817 [main] INFO  A00980851.io.readers.CustomerReader - read in 5 customer objects
+2017-06-18 17:58:28.818 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 17:58:28.819 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 17:58:28.822 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 17:58:28.826 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 17:58:28.826 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 17:58:28.836 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T00:58:28.836Z
+2017-06-18 17:58:28.836 [main] INFO  A00980851.Bcmc - Time application took to run 87 ms 
+2017-06-18 18:00:17.347 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:00:17.410 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:00:17.349Z
+2017-06-18 18:00:17.411 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 18:00:17.417 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects
+2017-06-18 18:00:17.417 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 18:00:17.418 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 18:00:17.421 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects
+2017-06-18 18:00:17.421 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 18:00:17.423 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 18:00:17.424 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects
+2017-06-18 18:00:17.424 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 18:00:17.433 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T01:00:17.433Z
+2017-06-18 18:00:17.433 [main] INFO  A00980851.Bcmc - Time application took to run 84 ms 
+2017-06-18 18:05:35.516 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:05:35.574 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:05:35.517Z
+2017-06-18 18:05:35.575 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 18:05:35.580 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects
+2017-06-18 18:05:35.580 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 18:05:35.582 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 18:05:35.584 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects
+2017-06-18 18:05:35.584 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 18:05:35.587 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 18:05:35.588 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects
+2017-06-18 18:05:35.588 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 18:05:35.595 [main] INFO  A00980851.util.cli.CustomersOptions - The customers option has been chosen as a argument
+2017-06-18 18:05:35.597 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T01:05:35.597Z
+2017-06-18 18:05:35.597 [main] INFO  A00980851.Bcmc - Time application took to run 80 ms 
+2017-06-18 18:05:56.358 [main] INFO  A00980851.Bcmc - 
+2017-06-18 18:05:56.420 [main] INFO  A00980851.Bcmc - Start Time 2017-06-19T01:05:56.359Z
+2017-06-18 18:05:56.421 [main] INFO  A00980851.Bcmc - Reading customer objects
+2017-06-18 18:05:56.427 [main] DEBUG A00980851.io.readers.CustomerReader - read in 5 customer objects
+2017-06-18 18:05:56.427 [main] INFO  A00980851.Bcmc - Finished reading customer objects 
+2017-06-18 18:05:56.428 [main] INFO  A00980851.Bcmc - Reading Inventory objects
+2017-06-18 18:05:56.431 [main] DEBUG A00980851.io.readers.InventoryReader - read in 99 customer objects
+2017-06-18 18:05:56.432 [main] INFO  A00980851.Bcmc - Finished reading Inventory objects
+2017-06-18 18:05:56.434 [main] INFO  A00980851.Bcmc - Reading motorcycle objects
+2017-06-18 18:05:56.434 [main] DEBUG A00980851.io.readers.MotorCycleReader - read in 7 customer objects
+2017-06-18 18:05:56.434 [main] INFO  A00980851.Bcmc - Finished reading motorcycle objects
+2017-06-18 18:05:56.446 [main] INFO  A00980851.util.cli.CustomersOptions - The customers option has been chosen as a argument
+2017-06-18 18:05:56.449 [main] INFO  A00980851.Bcmc - Finish Time 2017-06-19T01:05:56.449Z
+2017-06-18 18:05:56.450 [main] INFO  A00980851.Bcmc - Time application took to run 90 ms 

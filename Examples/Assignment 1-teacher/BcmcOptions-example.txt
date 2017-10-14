@@ -1,0 +1,26 @@
+Usage snippet:
+
+		BcmcOptions.process(args);
+		CommandLine commandLine = BcmcOptions.getCommandLine();
+		Option[] options = commandLine.getOptions();
+		for (Option option : options) {
+			if (commandLine.hasOption(option.getOpt())) {
+				String value = commandLine.getOptionValue(option.getOpt());
+				System.out.format("%s = %s%n", option.getLongOpt(), value == null ? "true" : value);
+			} else {
+				System.out.format("%s = %s%n", option.getLongOpt(), "false");
+			}
+		}
+
+if called with: 
+
+-inventory -total -by_count -make=Honda -desc
+
+
+output is: 
+
+inventory = true
+total = true
+by_count = true
+make = Honda
+descending = true

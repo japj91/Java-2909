@@ -1,0 +1,23 @@
+2017-07-06 14:52:13.376 [main] INFO  A00980851.Bcmc - 
+2017-07-06 14:52:13.444 [main] INFO  A00980851.Bcmc - Start Time 2017-07-06T21:52:13.379Z
+2017-07-06 14:52:13.447 [main] INFO  A00980851.io.readers.CustomerReader - Reading customer objects
+2017-07-06 14:52:13.454 [main] DEBUG A00980851.io.readers.CustomerReader - Added 5 customer objects to list from file 
+2017-07-06 14:52:13.454 [main] INFO  A00980851.io.readers.CustomerReader - Finished reading customer objects 
+2017-07-06 14:52:13.455 [main] INFO  A00980851.io.readers.InventoryReader - Reading Inventory objects
+2017-07-06 14:52:13.458 [main] DEBUG A00980851.io.readers.InventoryReader - Added  99 customer objects to list from file 
+2017-07-06 14:52:13.458 [main] INFO  A00980851.io.readers.InventoryReader - Finished reading Inventory objects
+2017-07-06 14:52:13.461 [main] INFO  A00980851.io.readers.MotorCycleReader - Reading motorcycle objects
+2017-07-06 14:52:13.461 [main] DEBUG A00980851.io.readers.MotorCycleReader - added  7 motorcycle objects to list from file
+2017-07-06 14:52:13.461 [main] INFO  A00980851.io.readers.MotorCycleReader - Finished reading motorcycle objects
+2017-07-06 14:52:14.378 [main] DEBUG A00980851.db.dao.Dao - Created this table sucessfully: Create table inventory (identifier varchar(40), description varchar(45), partNumber varchar(45), price varchar(40), quantity varchar(40))
+2017-07-06 14:52:14.647 [main] INFO  A00980851.db.dao.InventoryDao - DB ADDED 99 INVENTORY ENTRIES
+2017-07-06 14:52:14.647 [main] INFO  A00980851.db.dao.InventoryDao - Inventory data inserted sucessfully
+2017-07-06 14:52:14.651 [main] INFO  A00980851.db.dao.InventoryDao - Inventory List created and shared to singelton
+2017-07-06 14:52:14.665 [main] DEBUG A00980851.db.controllers.CustomerController - Their was no previous table named Customer table was created and populated
+2017-07-06 14:52:14.681 [main] DEBUG A00980851.db.dao.Dao - Created this table sucessfully: Create table Customer (identifier varchar(40), firstName varchar(45), lastName varchar(45), street varchar(40), postalCode varchar(40), city varchar(50), phone varchar(50), email varchar(100), joinDate varchar(100))
+2017-07-06 14:52:14.716 [main] INFO  A00980851.db.dao.CustomerDao - DB ADDED 5 customer entries
+2017-07-06 14:52:14.716 [main] INFO  A00980851.db.dao.CustomerDao - Customer data inserted sucessfully
+2017-07-06 14:52:14.724 [main] DEBUG A00980851.db.controllers.MotrocycleController - Their was no previous table named MotorCycle table was created and populated
+2017-07-06 14:52:14.731 [main] DEBUG A00980851.db.dao.Dao - Created this table sucessfully: Create table Motorcycle (id varchar (30), make varchar(30), model varchar(30), years varchar(30), serialNumber varchar(30), mileage varchar(30))
+2017-07-06 14:52:14.745 [main] INFO  A00980851.db.dao.MotorCycleDao - DB ADDED 7 MOTORCYCLE ENTRIES
+2017-07-06 14:52:14.745 [main] INFO  A00980851.db.dao.MotorCycleDao - Motorcycle data inserted sucessfully
